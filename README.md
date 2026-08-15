@@ -22,7 +22,7 @@
 ---
 
 ### 🎓 Currently
-- M.Sc. Computer Science @ University of Vienna — Focus: Data Science, BI & Process Mining
+- M.Sc. Computer Science @ University of Vienna Focus: Data Science, BI & Process Mining
 - Data & BI Analyst @ 54Connects (remote)
 - Praktikum P1 Industry Collaboration with VERBUND AG
 
