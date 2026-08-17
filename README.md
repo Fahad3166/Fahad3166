@@ -8,21 +8,14 @@
 
 ## About Me
 
-I am a Data & BI Analyst with 3+ years of experience building 
-end-to-end data pipelines, KPI dashboards, and analytical frameworks 
+I am a Data & BI Analyst with experience in building 
+end-to-end data pipelines,ETl, KPI dashboards, and analytical frameworks 
 that turn complex datasets into decisions that move businesses forward.
 
 My work spans **product analytics**, **marketing analytics**, and 
 **learning analytics** across international, cross-functional teams. 
 I am currently completing my M.Sc. in Computer Science at the 
-University of Vienna with a focus on **Data Science**, **Business 
-Intelligence**, and **Process Mining**.
-
-Alongside my studies I work remotely as a Data & BI Analyst for 
-**54Connects**, a US-based African media platform, and completed a 
-Praktikum P1 industry collaboration with **VERBUND AG**, Austria's 
-largest energy company, applying large-scale time series forecasting 
-to real 2023–2024 energy consumption data.
+University of Vienna with a focus on **Data Science**, **Data Analyst**, **Process Mining** and also interested in **AI, Machine Learning**.
 
 ---
 
@@ -57,15 +50,7 @@ to real 2023–2024 energy consumption data.
 - 💼 **Data & BI Analyst** — 54Connects, US (Jan 2025 – Present)  
   Product analytics across 5 content verticals
 - 📊 **Data & BI Analyst** — Ghafari Marketing (Feb 2022 – Oct 2024)
-
----
-
-## 🌍 Open To
-
-Data Analyst · BI Analyst · Business Analyst · Data Scientist  
-Roles across **Austria · Germany · Netherlands · Europe**  
-Open to hybrid and remote positions
-
+  
 ---
 
 *"Data should change what happens next — not just describe what happened before."*
