@@ -1,37 +1,71 @@
 # Hi, I'm Fahad Ali 👋
 
-**Data & BI Analyst | M.Sc. Computer Science @ University of Vienna**
+**Data & BI Analyst | M.Sc. Computer Science @ University of Vienna**  
+📍 Vienna, Austria &nbsp;|&nbsp; 📧 fahadaliabbasi88@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/fahad-ali-6a0703154)
 
 ---
 
-### 🔧 What I work with
-`Python` `SQL` `Tableau` `Power BI` `Pandas` `Scikit-learn` 
-`PostgreSQL` `Process Mining` `BPMN` `DISCO` `Git` `Jupyter`
+## About Me
+
+I am a Data & BI Analyst with 3+ years of experience building 
+end-to-end data pipelines, KPI dashboards, and analytical frameworks 
+that turn complex datasets into decisions that move businesses forward.
+
+My work spans **product analytics**, **marketing analytics**, and 
+**learning analytics** across international, cross-functional teams. 
+I am currently completing my M.Sc. in Computer Science at the 
+University of Vienna with a focus on **Data Science**, **Business 
+Intelligence**, and **Process Mining**.
+
+Alongside my studies I work remotely as a Data & BI Analyst for 
+**54Connects**, a US-based African media platform, and completed a 
+Praktikum P1 industry collaboration with **VERBUND AG**, Austria's 
+largest energy company, applying large-scale time series forecasting 
+to real 2023–2024 energy consumption data.
 
 ---
 
-### 📊 Recent Projects
+## 🔧 Tech Stack
+
+**Languages:** Python · SQL · Java · C++  
+**Analytics:** Pandas · NumPy · Scikit-learn · Statistical Modeling · A/B Testing  
+**BI & Visualization:** Tableau · Power BI · Google Data Studio  
+**Databases:** PostgreSQL · MySQL · Star Schema · Data Modeling  
+**Process & Modeling:** BPMN 2.0 · Process Mining (DISCO) · UML · Signavio  
+**Tools:** Jupyter Notebook · Git · GitHub · VS Code · GA4 · Linux
+
+---
+
+## 📊 Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| [VERBUND Energy Forecasting](https://github.com/Fahad3166/RDKD-2026-timeseries-forecasting) | Large-scale time series forecasting on 17,547 households — MAE: 3.74 vs baseline 3.89 | Python, Scikit-learn, LightGBM |
-| [Learning Analytics Framework](https://github.com/Fahad3166/learning-analytics-framework) | 4-layer analytics system on 32,000 real student records with at-risk detection | Python, Power BI, SQL |
-| [Car Sales BI Analysis](https://github.com/Fahad3166/-Car-Sales-Business-Intelligence-Analysis) | End-to-end BI pipeline with Star Schema and Tableau dashboards — 100k+ records | Python, SQL, Tableau |
-| [Process Mining Analysis](https://github.com/Fahad3166/Road-Traffic-Fines-Process-Mining-Analysis) | Conformance checking and process discovery on Road Traffic Fines dataset | DISCO, BPMN |
+| [VERBUND Energy Forecasting](https://github.com/Fahad3166/RDKD-2026-timeseries-forecasting) | Large-scale time series forecasting on 17,547 households — MAE 3.74 vs baseline 3.89 (+3.86% improvement) | Python · LightGBM · Clustering |
+| [Learning Analytics Framework](https://github.com/Fahad3166/learning-analytics-framework) | 4-layer analytics system on 32,000 real student records with at-risk detection | Python · Power BI · SQL |
+| [Car Sales BI Analysis](https://github.com/Fahad3166/-Car-Sales-Business-Intelligence-Analysis) | End-to-end BI pipeline with Star Schema and Tableau dashboards — 100k+ records | Python · SQL · Tableau |
+| [Road Traffic Fines — Process Mining](https://github.com/Fahad3166/Road-Traffic-Fines-Process-Mining-Analysis) | Process discovery and conformance checking against declarative temporal specifications | DISCO · BPMN |
 
 ---
 
-### 🎓 Currently
-- M.Sc. Computer Science @ University of Vienna Focus: Data Science, BI & Process Mining
-- Data & BI Analyst @ 54Connects (remote)
-- Praktikum P1 Industry Collaboration with VERBUND AG
+## 🎓 Education & Experience
+
+- 🎓 **M.Sc. Computer Science** — University of Vienna (2023 – Present)  
+  Focus: Data Science · Business Intelligence · Process Mining
+- 🏭 **Praktikum P1** — VERBUND AG Industry Collaboration (Mar–Jul 2026)  
+  Large-scale energy consumption forecasting with ML clustering
+- 💼 **Data & BI Analyst** — 54Connects, US (Jan 2025 – Present)  
+  Product analytics across 5 content verticals
+- 📊 **Data & BI Analyst** — Ghafari Marketing (Feb 2022 – Oct 2024)
 
 ---
 
-### 🌍 Open to
-Data Analyst · BI Analyst · Data Science · Process Mining roles across Europe
+## 🌍 Open To
+
+Data Analyst · BI Analyst · Business Analyst · Data Scientist  
+Roles across **Austria · Germany · Netherlands · Europe**  
+Open to hybrid and remote positions
 
 ---
 
-📧 fahadaliabbasi88@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/fahad-ali-6a0703154)
+*"Data should change what happens next — not just describe what happened before."*
