@@ -21,7 +21,7 @@ University of Vienna with a focus on **Data Science**, **Data Analyst**, **Proce
 
 ## 🔧 Tech Stack
 
-**Languages:** Python · SQL · Java · C++  
+**Languages:** Python · SQL   
 **Analytics:** Pandas · NumPy · Scikit-learn · Statistical Modeling · A/B Testing  
 **BI & Visualization:** Tableau · Power BI · Google Data Studio  
 **Databases:** PostgreSQL · MySQL · Star Schema · Data Modeling  
