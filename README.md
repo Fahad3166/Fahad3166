@@ -9,7 +9,7 @@
 ## About Me
 
 I am a Data & BI Analyst with experience in building 
-end-to-end data pipelines,ETl, KPI dashboards, and analytical frameworks 
+end-to-end data pipelines,ETL, KPI dashboards, and analytical frameworks 
 that turn complex datasets into decisions that move businesses forward.
 
 My work spans **product analytics**, **marketing analytics**, and 
