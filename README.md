@@ -41,10 +41,7 @@ University of Vienna with a focus on **Data Science**, **Data Analyst**, **Proce
 
 ---
 
-## 🎓 Education & Experience
-
-- 🎓 **M.Sc. Computer Science** — University of Vienna (2023 – Present)  
-  Focus: Data Science · Business Intelligence · Process Mining
+## 💼 Experience
 - 🏭 **Praktikum P1** — VERBUND AG Industry Collaboration (Mar–Jul 2026)  
   Large-scale energy consumption forecasting with ML clustering
 - 💼 **Data & BI Analyst** — 54Connects, US (Jan 2025 – Present)  
